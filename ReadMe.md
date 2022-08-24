@@ -1,6 +1,58 @@
 # 💫 About Me:
-I am currently pursuing a Master's in Applied computer science <br>@ Dalhousie University<br><br>Personal Ongoing Projects : <br>1)  MyMedBook For Impulsion Technologies: http://mymedbook.in/<br>An online platform for people to connect with doctors, book appointments, and store and manage health records.<br><br>2) Elemzy For Software Technologies<br>Management software for educational institutes to manage students, publish grades maintain an online presence for the institution.<br><br>
+An enthusiastic and passionate Full-stack Software Developer with working experience in complex back-end insurance systems, Medical service products, customer Retention Systems, fluent in programming languages such as Python, JavaScript, and Java. eager to master new technologies. 
 
+Currently, I am pursuing a Master's in Applied computer science at Dalhousie University.
+
+Previously, I worked as an Analyst programmer in NTT DATA for their client RLG, where I closely worked with cross-functional teams, BA [Business Analyst], and CAL'S BA to develop robust solutions to meet client requirements for functionality and performance with in-depth analysis.
+
+Worked as a Product Designer and Developer on Mymed Book and Gogoz for software pro technologies private limited managed different stages of implementation from design to production.
+
+Worked With python Django, Java and React JS, built a Rest API to communicate with various front-end clients.
+
+Projects completed:
+
+My Med Book : 
+My Med Book provides a single platform to manage and organize all health records of patients, appointments, analyze and track historical data and previous prescriptions.
+• Worked on database design & implementation of back end using Django python framework.
+• Worked on payment integration system and PDF prescription generation.
+• Built appointment and notification functionality into the existing system.
+• Fixed bugs in the front end which were built using React JS framework.
+
+Elemezy : 
+Elemezy Is software as a service for educational institutions to manage students, staff, and administrative tasks, built using Django python and React js front end.
+• Worked on task scheduling functionalities in the existing system.
+• Fixed bugs in the existing system along with new features that came up along with it.
+• Worked on appointment system and holistic ranking system.
+
+Gogoz :
+Gogoz was a food delivery Mobile application built with java and spring boot 
+• Worked on implementation of back end using java.
+• built components with Reactjs to handle data.
+• Built order tracking and notifications functionalities into the system.
+
+Senior associate software developerSenior associate software developer
+NTT DATA Services · Full-timeNTT DATA Services · Full-time
+Aug 2018 - Jan 2021 · 2 yrs 6 mosAug 2018 - Jan 2021 · 2 yrs 6 mos
+Bangalore Urban, Karnataka, IndiaBangalore Urban, Karnataka, India
+Worked for RLG as an analyst programmer.
+
+• Worked on complex legacy system to resolve regulatory problems
+• Improve efficiency and development of new modules based on business requirements.
+• Worked closely with BA [Business Analyst] and CAL'S BA to develop robust solutions to meet client requirements for functionality and performance.
+• Automated Scripts for Integration evaluation.
+• Worked effectively with cross-functional teams.
+• Helped solve diverse program problems with in-depth analysis.
+
+1. Wales rate of income tax [WRIT], Retirement outcome Review [ROR]:
+• Projects were about the regulatory changes enforced to be followed by the insurance provider.
+• My role as a developer was to write stored procedures in PLSQL to facilitate the changes required, SQC, and Automated FIT scripts to automate integration testing, and to trigger batches automatically to generate detailed reports forwarded to clients.
+
+2. Historical Financial Transactions [HFT]:
+• The project was about data migration of old policies from the oryx system [built with Linux and SQC] to the ORACLE system.
+• my job was to facilitate the API logic to extract data into CSV files and facilitate the dormant policies to run in the older systems after migration.
+
+3. TAL98 charges:
+• This project's motive was to apply precise product charges and fix live exiting issues with the system that applies charges when any alteration on a policy in the existing system.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-narayanan/) 
