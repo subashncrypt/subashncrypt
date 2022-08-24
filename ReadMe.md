@@ -30,11 +30,9 @@ Gogoz was a food delivery Mobile application built with java and spring boot
 • built components with Reactjs to handle data.
 • Built order tracking and notifications functionalities into the system.
 
-Senior associate software developerSenior associate software developer
-NTT DATA Services · Full-timeNTT DATA Services · Full-time
-Aug 2018 - Jan 2021 · 2 yrs 6 mosAug 2018 - Jan 2021 · 2 yrs 6 mos
-Bangalore Urban, Karnataka, IndiaBangalore Urban, Karnataka, India
-Worked for RLG as an analyst programmer.
+Senior associate software developerSenior associate software developer 
+NTT DATA Services · Full-time
+Aug 2018 - Jan 2021
 
 • Worked on complex legacy system to resolve regulatory problems
 • Improve efficiency and development of new modules based on business requirements.
